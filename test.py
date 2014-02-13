@@ -1,3 +1,3 @@
 print 'GNU is not unux!'
 print 'You should use GNU/Linux instead of Linux!'
-print ''
+print 'Use C!'
